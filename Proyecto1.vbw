@@ -1,0 +1,6 @@
+FormularioPrincipal = 0, 0, 441, 456, C, 22, 29, 463, 485, C
+icono = 0, 0, 0, 0, C, 110, 145, 551, 601, C
+FormularioAcercade = 110, 145, 551, 601, C, 143, 108, 584, 564, C
+FormularioMostrarresultado = 154, 203, 595, 659, C, 132, 174, 573, 630, C
+FormularioAyuda = 154, 203, 595, 659, C, 132, 174, 573, 630, C
+resultado = 110, 145, 816, 601, C
